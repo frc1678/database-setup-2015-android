@@ -14,8 +14,8 @@ import java.util.Random;
  */
 public class Utils {
     public static final int REQUEST_LINK_TO_DBX = 1;
-    public static final String APP_KEY = "fu1drprr1bha4zl";
-    public static final String APP_SECRET = "x8f4ehb2qyk30r4";
+    public static final String APP_KEY = "APP KEY HERE";
+    public static final String APP_SECRET = "APP SECRET HERE";
     public static final String SCHEDULE_PATH = "/Database File/schedule.json";
     public static final String FILE_NAME = "champs_database.realm";
     public static void handleError(Exception e) {
